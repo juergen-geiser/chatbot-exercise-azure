@@ -1,4 +1,0 @@
-flask
-transformers
-torch              # oder: transformers[torch] je nach Umgebung
-gunicorn           # für Production-Start
